@@ -1,6 +1,5 @@
-# NiftyCat
+# Moongrove
 
-[We are hiring!](https://niftycat.com/careers)
 
 <!--
 
